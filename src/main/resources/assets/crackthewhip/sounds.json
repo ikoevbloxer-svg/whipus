@@ -1,0 +1,6 @@
+{
+  "whip_crack": {
+    "subtitle": "subtitles.crackthewhip.whip_crack",
+    "sounds": [ { "name": "crackthewhip:whip_crack", "attenuation_distance": 24 } ]
+  }
+}

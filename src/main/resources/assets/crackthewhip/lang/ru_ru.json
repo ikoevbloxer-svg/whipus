@@ -1,0 +1,30 @@
+{
+  "itemGroup.crackthewhip": "Хлыст и Цепи",
+  "item.crackthewhip.whip": "Хлыст Агонии",
+  "item.crackthewhip.shackle_chain": "Кандальная цепь",
+  "effect.crackthewhip.agony": "Агония",
+  "subtitles.crackthewhip.whip_crack": "Щелчок хлыста",
+
+  "tooltip.crackthewhip.whip.1": "Бьёт слабо. Ранит глубоко.",
+  "tooltip.crackthewhip.whip.2": "ЛКМ: удар, накладывает Агонию (+1 уровень за удар, до V)",
+  "tooltip.crackthewhip.whip.3": "ПКМ: щелчок на 7 блоков, подтягивает жертву",
+
+  "tooltip.crackthewhip.chain.1": "Неразрушима. Не рвётся никогда.",
+  "tooltip.crackthewhip.chain.2": "ПКМ по мобу или игроку — заковать",
+  "tooltip.crackthewhip.chain.3": "ПКМ по блоку — приковать пленников к нему",
+  "tooltip.crackthewhip.chain.4": "Пустой рукой по блоку/пленнику — снова вести",
+  "tooltip.crackthewhip.chain.5": "Shift+ПКМ пустой рукой — расковать",
+
+  "message.crackthewhip.chained": "%s закован в цепи",
+  "message.crackthewhip.you_are_chained": "%s заковал тебя в цепи",
+  "message.crackthewhip.released": "%s раскован",
+  "message.crackthewhip.you_are_free": "С тебя сняли цепи",
+  "message.crackthewhip.taken": "Ты снова ведёшь %s",
+  "message.crackthewhip.anchored": "Приковано к блоку: %s",
+  "message.crackthewhip.unanchored": "Снято с блока: %s",
+  "message.crackthewhip.not_yours": "Это не твоя цепь",
+  "message.crackthewhip.cant": "Нельзя заковать своего тюремщика",
+
+  "death.attack.crackthewhip.agony": "%1$s не пережил агонию",
+  "death.attack.crackthewhip.agony.player": "%1$s умер в агонии, причинённой %2$s"
+}

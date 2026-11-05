@@ -1,0 +1,30 @@
+{
+  "itemGroup.crackthewhip": "Whips & Chains",
+  "item.crackthewhip.whip": "Whip of Agony",
+  "item.crackthewhip.shackle_chain": "Shackle Chain",
+  "effect.crackthewhip.agony": "Agony",
+  "subtitles.crackthewhip.whip_crack": "Whip cracks",
+
+  "tooltip.crackthewhip.whip.1": "Strikes lightly. Wounds deeply.",
+  "tooltip.crackthewhip.whip.2": "Attack: inflicts Agony (+1 level per hit, up to V)",
+  "tooltip.crackthewhip.whip.3": "Use: 7-block lash that yanks the victim",
+
+  "tooltip.crackthewhip.chain.1": "Unbreakable. It never snaps.",
+  "tooltip.crackthewhip.chain.2": "Use on a mob or player to shackle it",
+  "tooltip.crackthewhip.chain.3": "Use on a block to fasten your captives to it",
+  "tooltip.crackthewhip.chain.4": "Empty hand on the block/captive to lead again",
+  "tooltip.crackthewhip.chain.5": "Sneak + empty hand to unshackle",
+
+  "message.crackthewhip.chained": "%s is shackled",
+  "message.crackthewhip.you_are_chained": "%s has shackled you",
+  "message.crackthewhip.released": "%s is unshackled",
+  "message.crackthewhip.you_are_free": "Your chains were removed",
+  "message.crackthewhip.taken": "You are leading %s again",
+  "message.crackthewhip.anchored": "Fastened to the block: %s",
+  "message.crackthewhip.unanchored": "Taken from the block: %s",
+  "message.crackthewhip.not_yours": "That's not your chain",
+  "message.crackthewhip.cant": "You can't shackle your own jailer",
+
+  "death.attack.crackthewhip.agony": "%1$s didn't survive the agony",
+  "death.attack.crackthewhip.agony.player": "%1$s died in agony inflicted by %2$s"
+}
